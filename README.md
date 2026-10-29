@@ -1,4 +1,5 @@
 # bean-houseBean House ☕
+A simple coffee shop website built with HTML and CSS as part of my front-end development journey.
 
 A responsive coffee shop website built with HTML and CSS.
 
