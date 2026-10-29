@@ -20,7 +20,7 @@ Technologies Used
 
 Live Demo
 
-"View Bean House Website" (PASTE-YOUR-GITHUB-PAGES-LINK-HERE)
+"View Bean House Website" (https://shalale11.github.io/bean-house/)
 
 Author
 
